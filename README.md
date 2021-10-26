@@ -1,5 +1,8 @@
 # Ak47_Inject
 
+DLL inject
+实现的其中一个方法，后续打算实现反射型DLL（sRDI）注入。
+
 Use：
 `go run .\main.go -dll .\Hook.dll -pid PID`
 
