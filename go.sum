@@ -1,0 +1,6 @@
+github.com/jayateertha043/WinDllInjector v0.0.0-20210903072953-1ea8b89ba938 h1:wUjCrRtKzrX31O8guOYmkT+sovoa6VfADNXWyxg0Fso=
+github.com/jayateertha043/WinDllInjector v0.0.0-20210903072953-1ea8b89ba938/go.mod h1:hU4p1T3TqGoRyn7WoWerEx2FM8Rvm68B/+u0dUxXE/M=
+go.zoe.im/injgo v0.0.2 h1:91G87fyEL/L8v20D0zbjTefRkR/rcUt6viLfiZYKemc=
+go.zoe.im/injgo v0.0.2/go.mod h1:QkODc0P0qMXQW/okPMr3nmCy3CqtuiPT2+q+9U1UeJk=
+golang.org/x/sys v0.0.0-20211023085530-d6a326fbbf70 h1:SeSEfdIxyvwGJliREIJhRPPXvW6sDlLT+UQ3B0hD0NA=
+golang.org/x/sys v0.0.0-20211023085530-d6a326fbbf70/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
